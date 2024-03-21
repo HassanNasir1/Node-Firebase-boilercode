@@ -1,0 +1,26 @@
+{
+  "name": "be-offer-landed-firebase",
+  "version": "1.0.0",
+  "description": "Backend for offer landed nextjs application",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "firebase": "^10.9.0",
+    "firebase-admin": "^12.0.0",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1d"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Hassan Nasir",
+  "license": "MIT"
+}
