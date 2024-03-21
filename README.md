@@ -72,7 +72,7 @@ Replace `"serviceName"` with the name of the service you want to delete.
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername) - Initial work
+- [Your Name](https://github.com/HassanNasir1) - Initial work
 
 ## License
 
